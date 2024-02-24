@@ -105,12 +105,15 @@ font-family: sans-serif;
     .edu{
     
         margin-left: 10px;
+        width: 75%;
+
     }
     #mainhead{
         text-align: center;
     }
     .skills{
         margin-left: 10px;
+        width: 75%;
 
     }
     .hero{
@@ -124,6 +127,7 @@ text-align: center;
     .hobbies{
         text-align: center;
         background-color: #DAA38B;
+        width: 100%;
     }
     .contactme{
         text-align: end;
