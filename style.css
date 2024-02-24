@@ -104,17 +104,15 @@ font-family: sans-serif;
 @media (min-width: 320px) and (max-width: 479px) {
     .edu{
     
-        margin-left: 0px;
-        margin-right: 0px;
-        width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     #mainhead{
         text-align: center;
     }
     .skills{
-        margin-left: 0px;
-        margin-right: 0px;
-        width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
 
     }
     .hero{
@@ -127,7 +125,7 @@ text-align: center;
     }
     .hobbies{
         text-align: center;
-        width: 100%;
+        background-color: #DAA38B;
     }
     .contactme{
         text-align: end;
