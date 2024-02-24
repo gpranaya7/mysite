@@ -105,14 +105,18 @@ font-family: sans-serif;
     .edu{
     
         margin-left: 10px;
-
+        height: 300px;
+        width: 300px;
+        padding:50px;
     }
     #mainhead{
         text-align: center;
     }
     .skills{
         margin-left: 10px;
-
+        height: 300px;
+        width: 300px;
+        padding:50px;
     }
     .hero{
         text-align: center;
